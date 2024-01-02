@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rishabh-singh-90b208273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rishabh-singh-90b208273/" height="30" width="40" /></a>
 </p>
 <div align="center">
-    <h2>📊 Contribution Graph</h2>
+    <h2>📊 Rishabh Contribution Graph</h2>
     <br><a href="https://github.com/Rishabh071296"><img alt="Rishabh Singh Activity Graph" src="https://ghactivity.mrayush.me/graph?username=Rishabh071296&bg_color=f1e4eb&color=90378a&line=7b2d76&point=e90707&area=true&hide_border=true" title="Contribution Graph"/></a>
 </div>
 
