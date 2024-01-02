@@ -25,7 +25,7 @@
 </p>
 <div align="center">
     <h2>📊 Contribution Graph</h2>
-    <br><a href="https://github.com/Rishabh071296"><img alt="Rishabh Singh Activity Graph" src="(https://ghactivity.mrayush.me/graph?username=Rishabh071296&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://ghactivity.mrayush.me/)" title="Contribution Graph"/></a>
+    <br><a href="https://github.com/Rishabh071296"><img alt="Rishabh Singh Activity Graph" src="https://ghactivity.mrayush.me/graph?username=Rishabh071296&bg_color=f1e4eb&color=90378a&line=7b2d76&point=e90707&area=true&hide_border=true" title="Contribution Graph"/></a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
