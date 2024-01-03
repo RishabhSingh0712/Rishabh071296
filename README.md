@@ -30,8 +30,7 @@
 <div align="center">
     <h2>📊 Rishabh Contribution Graph</h2>
     <br><a href="https://github.com/RishabhSingh0712
-"><img alt="Rishabh Singh Activity Graph" src="https://ghactivity.mrayush.me/graph?username=RishabhSingh0712
-&bg_color=f1e4eb&color=90378a&line=7b2d76&point=e90707&area=true&hide_border=true" title="Contribution Graph"/></a>
+"><img alt="Rishabh Singh Activity Graph" src="https://ghactivity.mrayush.me/graph?username=RishabhSingh0712&bg_color=d3c0ca&color=000000&line=d709ca&point=d01616&area=true&hide_border=true" title="Contribution Graph"/></a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
