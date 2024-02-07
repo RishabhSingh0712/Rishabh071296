@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhsingh0712&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhsingh0712" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rishabhsingh7.netlify.app](https://rishabhsingh7.netlify.app)
 
-- 💬 Ask me about **Java Script,reactjs**
+- 💬 Ask me about **Java Script,Reactjs,Nodejs,MongoDB**
 
 - 📫 How to reach me **sraunak98@gmail.com**
 
